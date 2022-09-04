@@ -1,0 +1,220 @@
+.body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(28, 28, 28)
+}
+
+.intro {
+    display: flex;
+    align-items: center;
+}
+
+.container {
+    justify-content: center;
+}
+
+.title {
+    text-align: center;
+    color: white;
+}
+
+.desc {
+    color: white;
+    text-align: center;
+}
+
+.questions {
+    text-align: center;
+    color: cyan;
+    margin: 50px;
+}
+
+.techanalysis {
+    text-align: center;
+    color: white;
+    margin: 60px;
+}
+
+.techdesc {
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.techpatts {
+    display: flex;
+    align-items: center;
+}
+
+.smctitle {
+    text-align: center;
+    color: white;
+    margin: 70px;
+}
+
+.smdesc {
+    color: white;
+    text-align: center;
+}
+
+.smcdesc {
+    color: white;
+    text-align: center;
+    margin: 50px;
+}
+
+.smcdif {
+    text-align: center;
+    color: white;
+}
+
+.smcdifdesc {
+    color: white;
+    text-align: center;
+    margin: 40px;
+}
+
+.capdesc {
+    color: white;
+    text-align: center;
+}
+
+.fund {
+    display: flex;
+    align-items: center;
+    margin: 70px;
+}
+
+.fundimg {
+    height: 500px;
+}
+
+.techanalysisdeals {
+    color: white;
+}
+
+.techimg {
+    margin: 40px;
+}
+
+.marketstructure {
+    text-align: center;
+    color: white;
+}
+
+.market {
+    text-align: center;
+    color: white;
+    margin: 70px;
+}
+
+.trendwork {
+    color: white;
+    text-align: center;
+    margin: 50px;
+}
+
+.uptrendimg {
+    width: 800px;
+}
+
+.uptrenddesc {
+    text-align: center;
+    color: white;
+    margin: 50px;
+}
+
+.downtrendimg {
+    width: 800px;
+}
+
+.downtrenddesc {
+    text-align: center;
+    color: white;
+    margin: 50px;
+}
+
+.rangedesc {
+    text-align: center;
+    color: white;
+    margin: 30px;
+}
+
+.fibdesc {
+    text-align: center;
+    color: white;
+    margin: 40px;
+}
+
+.devidesc {
+    text-align: center;
+    color: white;
+    margin: 20px;   
+}
+
+.rangeliqsweep {
+    text-align: center;
+    color: white;
+    margin: 20px; 
+}
+
+.devichar {
+    text-align: center;
+    color: white;
+    margin: 40px;     
+}
+
+.devi {
+    justify-content: center;
+    align-items: center;
+}
+
+.deviimg {
+    width: 800px;
+}
+
+.deviex {
+    text-align: center;
+    color: white;
+    margin: 40px; 
+}
+
+.bos {
+    margin: 50px;
+    text-align: center;
+    color: white;
+}
+
+.bosdesc {
+    margin: 50px;
+    text-align: center;
+    color: white;
+}
+
+.linesex {
+    margin: 50px;
+    text-align: center;
+    color: white;
+}
+
+.downlinesbosimg {
+    width: 1000px;
+}
+
+.downlinesbosdesc {
+    margin: 40px;
+    text-align: center;
+    color: white;    
+}
+
+.entreancesignal {
+    color: white;
+    margin: 50px;
+    text-align: center;
+}
+
+.SMCexclusive {
+    color: white;
+    margin: 60px;
+    text-align: center;
+}
